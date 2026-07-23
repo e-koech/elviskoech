@@ -18,7 +18,7 @@ My work combines statistics, software engineering, cloud technologies, and moder
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 * 🤖 AI Agents & Retrieval-Augmented Generation (RAG)
 * 🧠 Large Language Models (LLMs)

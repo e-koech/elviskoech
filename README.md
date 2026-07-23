@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Elvis Koech
+# Hi there 👋 I'm e-koech
 
 <p align="center">
   <b>Data Scientist • AI Engineer • Data Engineer • Business Intelligence Developer</b>

@@ -153,15 +153,15 @@ Current areas include:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=e-koech&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-koech&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=e-koech&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -171,7 +171,7 @@ Current areas include:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=10&margin-h=10&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=e-koech&theme=algolia&margin-w=10&margin-h=10&column=4"/>
 
 </p>
 
@@ -249,7 +249,7 @@ Current areas include:
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME)
+![](https://komarev.com/ghpvc/?username=e-koech)
 
 </p>
 
